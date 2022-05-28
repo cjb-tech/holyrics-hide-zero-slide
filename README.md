@@ -1,6 +1,8 @@
+# How to hide the zero slide in Holyrics
+
 **EN** | [UK](README-uk.md)
 
-# How to hide the zero slide in Holyrics
+---
 
 Create new theme
 
